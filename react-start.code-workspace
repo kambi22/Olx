@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "react-start",
+			"path": ".."
+		},
+		{
+			"name": "Node",
+			"path": "../../../Node"
+		}
+	],
+	"settings": {}
+}
